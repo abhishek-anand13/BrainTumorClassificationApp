@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Files & Datasets
+densenet.onnx
+Brain-Tumor-Classification-DataSet-master/
+
+# Secrets
+header.py
