@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # Large Files & Datasets
-densenet.onnx
+# densenet.onnx  <-- Un-commented this to allow the model to be pushed (it is < 100MB)
 Brain-Tumor-Classification-DataSet-master/
 
 # Secrets
